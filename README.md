@@ -6,7 +6,7 @@ Theme matching the CSD look of Victor Tran's [theDesk](https://github.com/vicr12
 
 ![CSD vs Cactus](csd_vs_kwin.png)
 
-Shown here with the Contemporary widget theme.
+Shown here with the Contemporary widget theme. CSD on the left, regular app on the right.
 
 ## Install
 
