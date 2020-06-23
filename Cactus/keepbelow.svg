@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg4306"
+   width="28"
+   height="28"
+   version="1.1"
+   style="enable-background:new"
+   sodipodi:docname="keepbelow.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)">
+  <metadata
+     id="metadata24">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1894"
+     inkscape:window-height="711"
+     id="namedview20"
+     showgrid="true"
+     inkscape:lockguides="true"
+     inkscape:zoom="6.5085965"
+     inkscape:cx="48.715723"
+     inkscape:cy="29.085782"
+     inkscape:window-x="12"
+     inkscape:window-y="331"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="inactive-center">
+    <inkscape:grid
+       type="xygrid"
+       id="grid849" />
+  </sodipodi:namedview>
+  <g
+     id="active-center">
+    <rect
+       y="0"
+       x="0"
+       height="28"
+       width="28"
+       id="rect855"
+       style="opacity:0;fill:#d2d2d2;stroke-width:4.72711;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path853"
+       d="M 8.0045429,11.550052 14,17.664638 19.995457,11.466617"
+       style="fill:none;stroke:#ffffff;stroke-width:1.00909px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+  <g
+     id="hover-center"
+     transform="translate(32.004543)">
+    <rect
+       style="opacity:0.3;fill:#ffffff;stroke-width:4.72711;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1"
+       id="rect861"
+       width="28"
+       height="28"
+       x="0"
+       y="0" />
+    <path
+       style="fill:none;stroke:#ffffff;stroke-width:1.00909px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
+       d="M 8.0045429,11.550052 14,17.664638 19.995457,11.466617"
+       id="path863"
+       sodipodi:nodetypes="ccc" />
+  </g>
+  <g
+     transform="translate(62)"
+     id="pressed-center">
+    <rect
+       y="0"
+       x="0"
+       height="28"
+       width="28"
+       id="rect867"
+       style="opacity:0.3;fill:#020202;stroke-width:4.72711;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers;fill-opacity:1" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path869"
+       d="M 8.0045429,11.550052 14,17.664638 19.995457,11.466617"
+       style="fill:none;stroke:#ffffff;stroke-width:1.00909px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+  <g
+     transform="translate(32.004543,30.335384)"
+     id="inactive-center">
+    <rect
+       y="0"
+       x="0"
+       height="28"
+       width="28"
+       id="rect873"
+       style="opacity:0;fill:#d2d2d2;stroke-width:4.72711;stroke-linecap:round;stroke-linejoin:round;paint-order:stroke fill markers" />
+    <path
+       sodipodi:nodetypes="ccc"
+       id="path875"
+       d="M 8.0045429,11.550052 14,17.664638 19.995457,11.466617"
+       style="opacity:0.3;fill:none;stroke:#ffffff;stroke-width:1.00909px;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1" />
+  </g>
+  <use
+     x="0"
+     y="0"
+     xlink:href="#inactive-center"
+     id="deactivated-center"
+     transform="translate(29.995457)"
+     width="100%"
+     height="100%" />
+</svg>
